@@ -1,3 +1,4 @@
+//Projekt 1 - Prosta gra ekonomiczna (18.11.2024)
 #include <iostream>
 #include <cmath>
 #include <math.h>
